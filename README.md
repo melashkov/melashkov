@@ -7,7 +7,8 @@ I focus on mobile architecture, reliable offline-first experiences, modern Andro
 ## What I work with
 
 - Kotlin, Java, Jetpack Compose, Coroutines and Flow
-- Kotlin Multiplatform and shared Compose UI
+- Kotlin Multiplatform, shared Compose UI, state management and recomposition performance
+- Swift and SwiftUI for iOS development
 - Clean Architecture, MVVM, dependency injection and unit testing
 - REST and GraphQL APIs, TypeScript and Node.js, PHP and Python
 - Technical leadership, mentoring and cross-platform collaboration
