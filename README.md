@@ -11,6 +11,7 @@ I focus on mobile architecture, reliable offline-first experiences, modern Andro
 - Swift and SwiftUI for iOS development
 - Clean Architecture, MVVM, dependency injection and unit testing
 - REST and GraphQL APIs, TypeScript and Node.js, PHP and Python
+- AI-assisted development workflows with structured planning, code review, automated testing and verification
 - Technical leadership, mentoring and cross-platform collaboration
 
 ## Selected project
