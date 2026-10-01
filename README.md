@@ -16,19 +16,19 @@ I focus on mobile architecture, reliable offline-first experiences, modern Andro
 
 ## Selected projects
 
-### [OBD Stall Analyzer](https://github.com/melashkov/obd2-stall-analyzer)
-
-A read-only Android app that captures OBD-II telemetry around engine stalls, detects stall events from RPM transitions, and exports a portable CSV-backed diagnostic report for inspection or AI-assisted analysis.
-
-Built with Kotlin and Jetpack Compose, it adapts to the vehicle's supported data, includes a demo mode, and keeps recordings on-device until they are explicitly shared.
-
 ### [UK Motorcycle Parking](https://github.com/melashkov/KMP-UK-motorcycle-Parking)
 
 A free, ad-free Android and iOS service helping riders find approximately 3,000 motorcycle parking locations across more than 30 UK cities, with more than 10,000 Android downloads.
 
-I am modernising the product as a Kotlin Multiplatform application with shared Compose UI and tested domain and data layers.
+I am modernising the product as a Kotlin Multiplatform application with shared Compose UI and Clean Architecture separating the presentation, domain and data layers, backed by tested use cases, repositories and ViewModels.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.melashkov.mcparking) · [App Store](https://apps.apple.com/gb/app/uk-motorcycle-parking/id6451344073)
+
+### [OBD Stall Analyzer](https://github.com/melashkov/obd2-stall-analyzer)
+
+A read-only Android app that captures OBD-II telemetry around engine stalls, detects stall events from RPM transitions, and exports a portable CSV-backed diagnostic report for inspection or AI-assisted analysis.
+
+Built with Kotlin, Jetpack Compose, MVVM and Clean Architecture across separate presentation, domain and data layers. It adapts to the vehicle's supported data, includes a demo mode, and keeps recordings on-device until they are explicitly shared.
 
 ## Elsewhere
 
