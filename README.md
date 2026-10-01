@@ -14,7 +14,13 @@ I focus on mobile architecture, reliable offline-first experiences, modern Andro
 - AI-assisted development workflows with structured planning, code review, automated testing and verification
 - Technical leadership, mentoring and cross-platform collaboration
 
-## Selected project
+## Selected projects
+
+### [OBD Stall Analyzer](https://github.com/melashkov/obd2-stall-analyzer)
+
+A read-only Android app that captures OBD-II telemetry around engine stalls, detects stall events from RPM transitions, and exports a portable CSV-backed diagnostic report for inspection or AI-assisted analysis.
+
+Built with Kotlin and Jetpack Compose, it adapts to the vehicle's supported data, includes a demo mode, and keeps recordings on-device until they are explicitly shared.
 
 ### [UK Motorcycle Parking](https://github.com/melashkov/KMP-UK-motorcycle-Parking)
 
